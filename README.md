@@ -1,0 +1,2 @@
+# blog-nuxt
+learn nuxt
